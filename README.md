@@ -1,13 +1,16 @@
 # Kevin's Learning Journal
 
-## Markdown notes
-- a hashtag creates an H1 Heading
-- 2 hashtags creates an H2 Heading
-- I wonder what 3 hashtags creates?
+## The Growth Mindset Homepage
 
-1. Markdown is fun
-1. Adrienne is our TA
-1. Ryan is an instructor
-1. Ryan s a student
+### What is a growth mindset?
 
-this is my readme
+A growth mindset is...
+- Believing that with effort and persistence that you can learn
+- That talent is not everthing
+- That "yes you can" learn this
+- That IQ is not a fixed metric, it grows as you continue to grow
+
+Three things I always need to remind myself so I can try to keep a growth mindset:
+1. Starting is the hardest. Take the first step!
+1. Everyone was a novice at one point.
+1. Even the best at the craft find things that trip them up...it's how you react and overcome those obstacles that matters.
