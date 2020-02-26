@@ -1,5 +1,8 @@
 # Kevin's Learning Journal
 
+Links:
+[Computer Setup](computer-setup.md)
+
 ## The Growth Mindset Homepage
 
 ### What is a growth mindset?
