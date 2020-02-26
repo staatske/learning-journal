@@ -31,10 +31,12 @@ What is it used for?
 For right now, we are only using this to find files.
 
 Some **important commands**:
-- pwd - Print Working Directory - ie. Where are we currently.
-- ls - List the contents of a directory.
+- pwd - Print Working Directory - ie. Where are we currently. - if you don't know where you're at
+- ls - List the contents of a directory. - this will show you what else is in the folder
 - cd - Change Directories - ie. move to another directory.
 - ~ = takes you to the home
 - . = current directory
 - .. = moves you up the hierarchy
 - help = will give you a list of commands
+- touch - create files
+- mkdire - creates a directory
