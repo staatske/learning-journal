@@ -23,7 +23,12 @@ What are some **popular** text editors?
 ## Terminal
 
 What is a **terminal**?
-A terminal is a text based interface on a computer system that quickly helps you navigate, without the graphic user interface. You can enter commands via text, and feedback will be delivered back via text.
+
+A terminal is a text based interface on a computer system that quickly helps you navigate, without the graphic user interface. You can enter commands via text, and feedback will be delivered back via text. 
+
+What is it used for?
+
+For right now, we are only using this to find files.
 
 Some **important commands**:
 - pwd - Print Working Directory - ie. Where are we currently.
@@ -32,6 +37,4 @@ Some **important commands**:
 - ~ = takes you to the home
 - . = current directory
 - .. = moves you up the hierarchy
-
-Some questions I have:
-1. What are terminals used for? In the example Ryan showed, why wouldn't you just open up the program? How did this save time?
+- help = will give you a list of commands
