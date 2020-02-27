@@ -1,7 +1,9 @@
 # Kevin's Learning Journal
 
-Links:
-[Computer Setup](computer-setup.md)
+Links to reading notes:
+1. Growth mindset
+1. [Computer Setup](computer-setup.md)
+1. [Git and Version Control](git-github.md)
 
 ## The Growth Mindset Homepage
 
