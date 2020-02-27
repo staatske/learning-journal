@@ -1,4 +1,4 @@
-## The Growth Mindset Homepage
+# Day 1 - Growth Mindset and Markdown
 
 ### What is a growth mindset?
 
