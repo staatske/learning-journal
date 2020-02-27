@@ -1,4 +1,4 @@
-Day 3 - Version Control and Git
+#Day 3 - Version Control and Git
 
 ## What is git?
 - it's a version control system
