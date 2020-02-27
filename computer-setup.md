@@ -38,3 +38,5 @@ Some **important commands**:
 - help = will give you a list of commands
 - touch - create files
 - mkdire - creates a directory
+
+[Learning Journal Homepage](README.md)

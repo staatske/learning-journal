@@ -41,3 +41,5 @@
 
 
 [Git intro webpage](https://www.udemy.com/blog/git-tutorial-a-comprehensive-guide/)
+
+[Learning Journal Homepage](README.md)
