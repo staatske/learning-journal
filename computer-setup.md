@@ -1,4 +1,4 @@
-# Read 02 - Notes
+# Day 2 Code Editor and Terminal
 
 Today we are learning about two important programs critical to a developer to do their job
 1. Text Editor
