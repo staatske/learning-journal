@@ -4,6 +4,7 @@
 1. [Growth mindset](growth-mindset.md)
 1. [Computer Setup](computer-setup.md)
 1. [Git and Version Control](git-github.md)
+1. [HTML](html-notes.md)
 
 ### What is a growth mindset?
 
