@@ -50,3 +50,5 @@ The syntax in CSS is a bit different, because it needs to connect to the HTML co
 - color helps bring your site to life and also helps convey the mood and evokes reactions
 - there are three ways to specify colors in CSS: RGB, hex codes, and color names. 
 - color pickers can help you choose a good color
+
+[Learning Journal Homepage](README.md)

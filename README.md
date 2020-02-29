@@ -6,6 +6,7 @@
 1. [Git and Version Control](git-github.md)
 1. [HTML](html-notes.md)
 1. [CSS Notes](css-notes.md)
+1. [Javascript notes](js-notes.md)
 
 ### What is a growth mindset?
 
