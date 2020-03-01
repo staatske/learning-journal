@@ -7,6 +7,7 @@
 1. [HTML](html-notes.md)
 1. [CSS Notes](css-notes.md)
 1. [Javascript notes](js-notes.md)
+1. [Computer architecture and logic](architecture-logic-notes.md)
 
 ### What is a growth mindset?
 
