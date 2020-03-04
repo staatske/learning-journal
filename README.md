@@ -8,6 +8,8 @@
 1. [CSS Notes](css-notes.md)
 1. [Javascript notes](js-notes.md)
 1. [Computer architecture and logic](architecture-logic-notes.md)
+1. [Function notes](function-notes.md)
+1. [Loop-notes](loop-notes.md)
 
 ### What is a growth mindset?
 

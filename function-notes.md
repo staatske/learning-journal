@@ -1,35 +1,34 @@
-# Day 6 - Function notes
+# Reading 7
 
-Samples of Javascript in action
-- Slideshod
-- Forms
-- Reload portions of a page
-- Filter data
+## EXPRESSIONS
 
-Script is a series of instructions telling a computer what to do, similar to recipe, handbook, manual, etc
-- First you need to state you goal
-- then list the tasks that need to be completed in order to achieve it
-- Flowchart is a way to help you list out the steps and iron out any kinks
+Expressions - evaluates into results in a signle value.  There are two types of expressions:
+1. expressions that assign a value to a variable
+    ``` var name = 'Kevin'; ```
+1. Expressions that use two or more values to return a single value
+    ``` var area = 3 * 2; ```
+Make sure to put a SEMICOLON after each expression
 
-Some sample 
+## OPERATORS
 
-Why might a person use a function:
-- Reusing code
-- Receive input, process, then return an output
+Different type of operators:
+1. Assignment opeator - assigns value to an operator (like a string, name, color, etc)
+1. Arithmentic operator - performs basic math (hardcoded multiplication, division, addition, etc)
+1. String operator - combines two strings
+1. comparison operator - returns true or fale ``` buy = 3 > 5 ```
+1. logical operator - combines expressions and returns true or false ``` buy = (5>3) && (2<4) ```
 
-Functions:
-- Reusable code
-- 
+## FUNCTIONS
 
-Code should have an intuitive name of what the code does
+Functions let you group a series of statement together to perform a specific task
 
-What is a function? Reusable, step-by-step script and returns an output.
-
-Favorite color
-
-```
-function ryansFaveColor() {
-    console.log('Ryan\'s fave color)
-}
-
-```
+- Declaring a function - give it a name, then write the statements.
+    Example 
+    ``` 
+    function sayHello() {
+        document.write('Hello');
+    }
+    ```
+- Calling a function - is when you use it
+    Example
+    ```sayHello()```
